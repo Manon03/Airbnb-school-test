@@ -1,0 +1,9 @@
+.banner{
+	background-image: linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,.4)), url(../../img/home.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.width-input input{
+	width: 550px !important; 
+}

@@ -1,0 +1,19 @@
+@import url("Components/banner.css");
+@import url("Components/card.css");
+@import url("Components/footer.css");
+@import url("Components/card-trip2.css");
+
+
+@import url("utilities/padding.css");
+@import url("utilities/text.css");
+@import url("utilities/margin.css");
+
+.position-fixed{
+	position: fixed;
+	z-index: 1;
+	width: 100%;
+}
+.img-show img{
+	height: 300px;
+	width: 100%;
+}

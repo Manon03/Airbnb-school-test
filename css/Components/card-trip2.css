@@ -1,0 +1,15 @@
+*{
+	box-sizing: border-box;
+}
+.card-trip{
+	width: 320px;
+	min-height: 280px;
+	box-shadow: 0px 0px 30px 5px rgba(0,0,0,.5);
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
+.card-trip > img{
+	width: 100%;
+	height: 150px;
+	border-radius: 5px;
+}
